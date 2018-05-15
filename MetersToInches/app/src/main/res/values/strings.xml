@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MetersToInches</string>
+    <string name="error_message">Please enter any value to convert.</string>
+</resources>
